@@ -1,0 +1,36 @@
+name: Actualiser les opportunités
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "server.js"
+      - "scripts/update-catalog.mjs"
+      - ".github/workflows/catalog.yml"
+  schedule:
+    - cron: '23 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: actualisation-catalogue
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Lire les sources publiques
+        run: node scripts/update-catalog.mjs
+      - name: Publier le catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualiser le catalogue public"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
