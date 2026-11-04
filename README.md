@@ -9,3 +9,5 @@ Le catalogue écarte certains achats et prix évidents, mais ce filtrage est imp
 La version locale originale figure toujours dans `server.js` et la documentation `LISEZ-MOI.md`. Pour l'exécuter depuis ce dépôt, placez `index.html`, `style.css` et l'ancienne interface locale dans un dossier `public` ; les fichiers Web actuels sont adaptés à Pages et utilisent le stockage navigateur.
 
 Les sources Canada / Québec sont repérées par leur public cible : cela ne confirme pas l’admissibilité individuelle d’une offre. Le filtre correspondant porte sur la provenance, pas sur les pays garantis. Les horaires GitHub Actions sont approximatifs et peuvent être retardés ; l’onglet Sources indique la dernière publication. Les navigateurs ouverts consultent le catalogue environ toutes les dix minutes lorsque la page est active.
+
+Par défaut, la liste masque les articles publiés il y a plus de 90 jours ; cette option peut être désactivée. Une date de publication ancienne ne prouve pas l’expiration : vérifiez la source. Le filtre automatique écarte certaines dépenses explicites dans les titres et résumés, mais il reste imparfait.

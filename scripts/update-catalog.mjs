@@ -1,5 +1,5 @@
 import { annotateSource, shouldPublish } from './catalog-utils.mjs';
-import { eligibleTitle } from './eligible.mjs';
+import { eligibleOffer } from './eligible.mjs';
 import { spawn } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
@@ -26,8 +26,8 @@ try {
   if(!completed)throw new Error('Analyse interrompue : délai dépassé.');
   const [detected,sources]=await Promise.all(['offers','sources'].map(x=>fetch(base+'/api/'+x).then(r=>r.json())));
   const annotate=(offer,prior)=>annotateSource(offer,prior,canadianNames);
-  const byUrl=new Map((old.offers||[]).filter(x=>eligibleTitle(x.title)).map(x=>[x.url,annotate(x,x)]));
-  for (const item of detected.filter(x=>eligibleTitle(x.title))){
+  const byUrl=new Map((old.offers||[]).filter(x=>eligibleOffer(x.title,x.description)).map(x=>[x.url,annotate(x,x)]));
+  for (const item of detected.filter(x=>eligibleOffer(x.title,x.description))){
     const prior=byUrl.get(item.url); const id=parseInt(createHash('sha256').update(item.url).digest('hex').slice(0,12),16);
     byUrl.set(item.url,annotate({...item,id,created:prior?.created||item.created},prior));
   }
