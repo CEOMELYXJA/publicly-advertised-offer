@@ -6,9 +6,11 @@ on:
       - "server.js"
       - "scripts/update-catalog.mjs"
       - "scripts/eligible.mjs"
+      - "scripts/sources.json"
+      - "scripts/catalog-utils.mjs"
       - ".github/workflows/catalog.yml"
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '3-59/10 * * * *'
 permissions:
   contents: write
 concurrency:
