@@ -1,3 +1,4 @@
+import { eligibleTitle } from './eligible.mjs';
 import { spawn } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
@@ -20,8 +21,8 @@ try {
   for(let i=0;i<180;i++){await wait(1000);let s=await (await fetch(base+'/api/state')).json();if(!s.scanning){completed=true;break}}
   if(!completed)throw new Error('Analyse interrompue : délai dépassé.');
   const [detected,sources]=await Promise.all(['offers','sources'].map(x=>fetch(base+'/api/'+x).then(r=>r.json())));
-  const byUrl=new Map((old.offers||[]).map(x=>[x.url,x]));
-  for (const item of detected){
+  const byUrl=new Map((old.offers||[]).filter(x=>eligibleTitle(x.title)).map(x=>[x.url,x]));
+  for (const item of detected.filter(x=>eligibleTitle(x.title))){
     const prior=byUrl.get(item.url); const id=parseInt(createHash('sha256').update(item.url).digest('hex').slice(0,12),16);
     byUrl.set(item.url,{...item,id,created:prior?.created||item.created});
   }

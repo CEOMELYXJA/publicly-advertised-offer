@@ -1,6 +1,6 @@
 const $=s=>document.querySelector(s), esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let offers=[],sources=[],state={},view='offers',query='',filters={category:'',country:'',reward:'',expiry:'',free:false,card:false,hide:false,sort:'new'},previousUnread=null;
-const cats=['Échantillon','Cadeau physique','Bonus sans dépôt','Tours gratuits','Crédit gratuit','Récompense monétaire','Remboursement','Code promotionnel','Concours'];
+const cats=['Échantillon','Cadeau physique','Bonus sans dépôt','Tours gratuits','Crédit gratuit','Récompense monétaire','Remboursement','Code promotionnel','Jeu ou service gratuit','Concours'];
 const tag=s=>`<span class="tag ${s==='100 % gratuite confirmée'?'good':s==='À vérifier'?'warn':s==='Expirée'||s==='Indisponible'||s==='Frais ou achat requis'?'bad':''}">${esc(s)}</span>`;
 const options=(values,selected,empty)=>`<option value="">${esc(empty)}</option>`+values.map(x=>`<option ${selected===x?'selected':''}>${esc(x)}</option>`).join('');
 function say(text){let n=$('#notice');n.textContent=text;n.classList.remove('hidden');setTimeout(()=>n.classList.add('hidden'),7000)}

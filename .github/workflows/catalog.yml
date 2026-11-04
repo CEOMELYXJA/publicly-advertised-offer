@@ -5,6 +5,7 @@ on:
     paths:
       - "server.js"
       - "scripts/update-catalog.mjs"
+      - "scripts/eligible.mjs"
       - ".github/workflows/catalog.yml"
   schedule:
     - cron: '23 */6 * * *'
