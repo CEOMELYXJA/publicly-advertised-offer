@@ -19,4 +19,4 @@ document.addEventListener('submit',async e=>{e.preventDefault();let f=e.target,d
 document.addEventListener('input',e=>{let id=e.target.id;if(id==='query'||id==='country'||id==='reward'){if(id==='query')query=e.target.value;else filters[id]=e.target.value;let start=e.target.selectionStart;render();let n=$('#'+id);n.focus();n.setSelectionRange(start,start)}});
 document.addEventListener('change',e=>{let id=e.target.id;if(['category','expiry','free','card','hide','sort'].includes(id)){filters[id]=e.target.type==='checkbox'?e.target.checked:e.target.value;render()}});
 $('#scan').addEventListener('click',async()=>{try{await api('scan','POST',{});say('Catalogue actualisé. La prochaine analyse dépend du calendrier GitHub Actions.');await refresh()}catch(e){say(e.message)}});
-refresh().catch(e=>say(e.message));setInterval(()=>refresh(!$('#dialog').open).catch(()=>{}),5000);
+refresh().catch(e=>say(e.message));

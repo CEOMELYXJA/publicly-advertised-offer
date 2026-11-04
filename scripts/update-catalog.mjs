@@ -21,10 +21,11 @@ try {
   for(let i=0;i<180;i++){await wait(1000);let s=await (await fetch(base+'/api/state')).json();if(!s.scanning){completed=true;break}}
   if(!completed)throw new Error('Analyse interrompue : délai dépassé.');
   const [detected,sources]=await Promise.all(['offers','sources'].map(x=>fetch(base+'/api/'+x).then(r=>r.json())));
-  const byUrl=new Map((old.offers||[]).filter(x=>eligibleTitle(x.title)).map(x=>[x.url,x]));
+  const categorize=o=>o.site==='gg.deals'&&o.category==='Cadeau physique'?{...o,category:'Jeu ou service gratuit'}:o;
+  const byUrl=new Map((old.offers||[]).filter(x=>eligibleTitle(x.title)).map(x=>[x.url,categorize(x)]));
   for (const item of detected.filter(x=>eligibleTitle(x.title))){
     const prior=byUrl.get(item.url); const id=parseInt(createHash('sha256').update(item.url).digest('hex').slice(0,12),16);
-    byUrl.set(item.url,{...item,id,created:prior?.created||item.created});
+    byUrl.set(item.url,categorize({...item,id,created:prior?.created||item.created}));
   }
   const data={generatedAt:new Date().toISOString(),sources,offers:[...byUrl.values()].sort((a,b)=>b.created.localeCompare(a.created)).slice(0,1500)};
   await writeFile('data/catalog.json',JSON.stringify(data,null,2)+'\n');
