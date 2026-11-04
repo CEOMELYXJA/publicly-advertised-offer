@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T05:53:36.611Z",
+  "generatedAt": "2026-11-04T05:55:03.013Z",
   "sources": [
     {
       "id": 1,
       "url": "https://thefreebieguy.com/feed/",
       "name": "The Freebie Guy · flux public",
       "status": "Accessible · 30 éléments",
-      "checked": "2026-11-04T05:53:35.915Z",
+      "checked": "2026-11-04T05:55:02.204Z",
       "enabled": 1
     },
     {
@@ -14,7 +14,7 @@
       "url": "https://www.heyitsfree.net/feed/",
       "name": "Hey, It’s Free · flux public",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-04T05:53:36.028Z",
+      "checked": "2026-11-04T05:55:02.311Z",
       "enabled": 1
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://gg.deals/news/freebies/feed/",
       "name": "GG.deals · jeux gratuits",
       "status": "Accessible · 24 éléments",
-      "checked": "2026-11-04T05:53:36.419Z",
+      "checked": "2026-11-04T05:55:02.842Z",
       "enabled": 1
     },
     {
@@ -30,7 +30,7 @@
       "url": "https://news.google.com/rss/search?q=free+samples+no+purchase&hl=en-CA&gl=CA&ceid=CA:en",
       "name": "Google Actualités · échantillons",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-04T05:53:36.464Z",
+      "checked": "2026-11-04T05:55:02.862Z",
       "enabled": 1
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://news.google.com/rss/search?q=offre+gratuite+sans+achat&hl=fr-CA&gl=CA&ceid=CA:fr",
       "name": "Google Actualités · offres gratuites",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-04T05:53:36.473Z",
+      "checked": "2026-11-04T05:55:02.866Z",
       "enabled": 1
     }
   ],
@@ -47,7 +47,7 @@
       "title": "Paranormal shooter Phantom Line now has a FREE Steam prologue!",
       "description": "Planned for release in 2027, Phantom Line seeks to offer something different for fans of open-world tactical co-op FPS titles.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -75,20 +75,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.418Z",
+      "lastChecked": "2026-11-04T05:55:02.841Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Tue, 27 Oct 2026 18:13:00 +0000",
       "observedText": "Planned for release in 2027, Phantom Line seeks to offer something different for fans of open-world tactical co-op FPS titles.",
       "id": 174296062473180,
       "url": "https://gg.deals/freebie/paranormal-shooter-phantom-line-now-has-a-free-steam-prologue/",
       "created": "2026-11-04T05:53:36.418Z",
-      "updated": "2026-11-04T05:53:36.418Z"
+      "updated": "2026-11-04T05:55:02.841Z"
     },
     {
       "title": "DOOM (2016) is FREE to grab now, courtesy of Lenovo! (updated)",
       "description": "Fancy some free demon-slaying?",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -116,20 +116,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.417Z",
+      "lastChecked": "2026-11-04T05:55:02.840Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Wed, 28 Oct 2026 16:02:00 +0000",
       "observedText": "Fancy some free demon-slaying?",
       "id": 59382648771382,
       "url": "https://gg.deals/freebie/doom-2016-is-free-to-grab-today-courtesy-of-lenovo/",
       "created": "2026-11-04T05:53:36.417Z",
-      "updated": "2026-11-04T05:53:36.417Z"
+      "updated": "2026-11-04T05:55:02.840Z"
     },
     {
       "title": "Grab your FREE Dying Light 2 weapon DLC during their Halloween Showdown event!",
       "description": "Slashed in price so you can slash in style.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -157,20 +157,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.416Z",
+      "lastChecked": "2026-11-04T05:55:02.839Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Wed, 28 Oct 2026 18:34:00 +0000",
       "observedText": "Slashed in price so you can slash in style.",
       "id": 220695055033470,
       "url": "https://gg.deals/freebie/grab-your-free-dying-light-2-weapon-dlc-during-their-halloween-showdown-event/",
       "created": "2026-11-04T05:53:36.416Z",
-      "updated": "2026-11-04T05:53:36.416Z"
+      "updated": "2026-11-04T05:55:02.839Z"
     },
     {
       "title": "Two very different horror games are FREE on Epic Games Store for a few more hours (updated)",
       "description": "Prepare for Halloween! One game will mess with your mind, while the other will throw hordes of monsters at you!",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -198,20 +198,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.415Z",
+      "lastChecked": "2026-11-04T05:55:02.838Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 08:43:00 +0000",
       "observedText": "Prepare for Halloween! One game will mess with your mind, while the other will throw hordes of monsters at you!",
       "id": 180346889401462,
       "url": "https://gg.deals/freebie/two-very-different-horror-games-are-now-free-on-epic-games-store-prepare-for-halloween/",
       "created": "2026-11-04T05:53:36.415Z",
-      "updated": "2026-11-04T05:53:36.415Z"
+      "updated": "2026-11-04T05:55:02.838Z"
     },
     {
       "title": "New FREE No Man's Sky Forsaken update adds creepy collectibles, new ships, and more",
       "description": "Another month, another free No Man's Sky update.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -239,14 +239,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.414Z",
+      "lastChecked": "2026-11-04T05:55:02.838Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 13:30:59 +0000",
       "observedText": "Another month, another free No Man's Sky update.",
       "id": 281039444220160,
       "url": "https://gg.deals/freebie/new-free-no-mans-sky-forsaken-update/",
       "created": "2026-11-04T05:53:36.414Z",
-      "updated": "2026-11-04T05:53:36.414Z"
+      "updated": "2026-11-04T05:55:02.838Z"
     },
     {
       "title": "Microsoft is giving away 25 FREE games worth over $500, but there's a catch!",
@@ -280,20 +280,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.413Z",
+      "lastChecked": "2026-11-04T05:55:02.837Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 14:40:00 +0000",
       "observedText": "25 free games, including Skyrim, Halo, and Gears of War?",
       "id": 71603026764849,
       "url": "https://gg.deals/freebie/microsoft-is-giving-away-25-free-games-worth-over-500/",
       "created": "2026-11-04T05:53:36.413Z",
-      "updated": "2026-11-04T05:53:36.413Z"
+      "updated": "2026-11-04T05:55:02.837Z"
     },
     {
       "title": "Sorry We're Closed is FREE on the Epic Games Store! Grab the $24.99 horror game at no cost",
       "description": "Who says horror games have to be dark and gloomy?",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -321,20 +321,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.412Z",
+      "lastChecked": "2026-11-04T05:55:02.836Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 15:01:00 +0000",
       "observedText": "Who says horror games have to be dark and gloomy?",
       "id": 117900275666685,
       "url": "https://gg.deals/freebie/sorry-were-closed-is-free-on-the-epic-games-store-grab-the-2499-horror-game-at-no-cost/",
       "created": "2026-11-04T05:53:36.412Z",
-      "updated": "2026-11-04T05:53:36.412Z"
+      "updated": "2026-11-04T05:55:02.836Z"
     },
     {
       "title": "Epic Games' latest mobile FREEBIE is a galaxy-spanning kart racer!",
       "description": "Vroom with a view.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -362,14 +362,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.411Z",
+      "lastChecked": "2026-11-04T05:55:02.835Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 16:09:00 +0000",
       "observedText": "Vroom with a view.",
       "id": 224754867468495,
       "url": "https://gg.deals/freebie/epic-games-latest-mobile-freebie-is-a-galaxy-spanning-kart-racer/",
       "created": "2026-11-04T05:53:36.411Z",
-      "updated": "2026-11-04T05:53:36.411Z"
+      "updated": "2026-11-04T05:55:02.835Z"
     },
     {
       "title": "The next set of Epic Games FREEBIES includes a chill colony builder & D&D pack",
@@ -403,14 +403,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.410Z",
+      "lastChecked": "2026-11-04T05:55:02.834Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 17:04:00 +0000",
       "observedText": "The clock has already started ticking towards the first EGS giveaway for November.",
       "id": 252995380058588,
       "url": "https://gg.deals/freebie/the-next-set-of-epic-games-freebies-include-a-chill-colony-builder-dd-pack/",
       "created": "2026-11-04T05:53:36.410Z",
-      "updated": "2026-11-04T05:53:36.410Z"
+      "updated": "2026-11-04T05:55:02.834Z"
     },
     {
       "title": "“Overwhelmingly Positive” puzzler Hexologic is FREE to keep on Steam for a limited time",
@@ -444,20 +444,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.409Z",
+      "lastChecked": "2026-11-04T05:55:02.833Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 17:32:31 +0000",
       "observedText": "You have until Halloween to snag this sudoku-inspired Steam freebie.",
       "id": 219675683107726,
       "url": "https://gg.deals/freebie/overwhelmingly-positive-puzzler-hexologic-is-free-to-keep-on-steam-for-a-limited-time/",
       "created": "2026-11-04T05:53:36.409Z",
-      "updated": "2026-11-04T05:53:36.409Z"
+      "updated": "2026-11-04T05:55:02.833Z"
     },
     {
       "title": "After going live on PC, the FREE METRO Redux Next-Gen Update is now available on consoles!",
       "description": "The post-apocalypse has never looked this good.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -485,20 +485,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.407Z",
+      "lastChecked": "2026-11-04T05:55:02.830Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 18:41:00 +0000",
       "observedText": "The post-apocalypse has never looked this good.",
       "id": 70050259619905,
       "url": "https://gg.deals/freebie/the-free-metro-redux-next-gen-update-is-live-now-across-pc-and-console/",
       "created": "2026-11-04T05:53:36.408Z",
-      "updated": "2026-11-04T05:53:36.408Z"
+      "updated": "2026-11-04T05:55:02.831Z"
     },
     {
       "title": "Football Manager 27 is FREE to play right now! Try the full game for five days before launch",
       "description": "You can dive into the full game before launch, and even keep your progress if you decide to buy it.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -526,14 +526,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.408Z",
+      "lastChecked": "2026-11-04T05:55:02.832Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 18:01:05 +0000",
       "observedText": "You can dive into the full game before launch, and even keep your progress if you decide to buy it.",
       "id": 273778122522059,
       "url": "https://gg.deals/freebie/football-manager-27-is-free-to-play-october-29/",
       "created": "2026-11-04T05:53:36.408Z",
-      "updated": "2026-11-04T05:53:36.408Z"
+      "updated": "2026-11-04T05:55:02.832Z"
     },
     {
       "title": "Hunting Simulator 3's Classic American Hunter Pack is FREE to keep on Steam for a limited time!",
@@ -567,20 +567,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.407Z",
+      "lastChecked": "2026-11-04T05:55:02.829Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Thu, 29 Oct 2026 19:18:00 +0000",
       "observedText": "To celebrate the release of Hunting Sim 3, Nacon is giving away a premium DLC pack, saving players $5 on the full price.",
       "id": 194546215611775,
       "url": "https://gg.deals/freebie/hunting-simulator-3-classic-american-hunter-pack-free-steam/",
       "created": "2026-11-04T05:53:36.407Z",
-      "updated": "2026-11-04T05:53:36.407Z"
+      "updated": "2026-11-04T05:55:02.829Z"
     },
     {
       "title": "Epic Seven is now FREE to play on Steam, and it's already attracting hundreds of players!",
       "description": "Much to the delight of fans of anime-style visuals and turn-based RPGs, Epic Seven has finally arrived on Steam!",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -608,20 +608,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.406Z",
+      "lastChecked": "2026-11-04T05:55:02.828Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 09:34:00 +0000",
       "observedText": "Much to the delight of fans of anime-style visuals and turn-based RPGs, Epic Seven has finally arrived on Steam!",
       "id": 279706750203430,
       "url": "https://gg.deals/freebie/epic-seven-is-now-free-to-play-on-steam-and-its-already-attracting-hundreds-of-players/",
       "created": "2026-11-04T05:53:36.406Z",
-      "updated": "2026-11-04T05:53:36.406Z"
+      "updated": "2026-11-04T05:55:02.828Z"
     },
     {
       "title": "SacriFire is FREE to play on Steam right now! Try this gorgeous pixel-art JRPG before launch",
       "description": "This new playtest offers a look at the game's story and combat.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -649,20 +649,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.405Z",
+      "lastChecked": "2026-11-04T05:55:02.827Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 11:49:00 +0000",
       "observedText": "This new playtest offers a look at the game's story and combat.",
       "id": 18379685055926,
       "url": "https://gg.deals/freebie/sacrifire-is-free-to-play-on-steam-right-now/",
       "created": "2026-11-04T05:53:36.405Z",
-      "updated": "2026-11-04T05:53:36.405Z"
+      "updated": "2026-11-04T05:55:02.827Z"
     },
     {
       "title": "A New Beginning: Final Cut is FREE on GOG for a limited time",
       "description": "You have until November 2 to get your freebie.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -690,14 +690,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.404Z",
+      "lastChecked": "2026-11-04T05:55:02.826Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 14:45:00 +0000",
       "observedText": "You have until November 2 to get your freebie.",
       "id": 56045641862662,
       "url": "https://gg.deals/freebie/a-new-beginning-final-cut-is-free-on-gog-for-a-limited-time/",
       "created": "2026-11-04T05:53:36.404Z",
-      "updated": "2026-11-04T05:53:36.404Z"
+      "updated": "2026-11-04T05:55:02.826Z"
     },
     {
       "title": "Psychological horror game Asleep: Act 1 is FREE to keep on Steam for a limited time",
@@ -731,14 +731,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.402Z",
+      "lastChecked": "2026-11-04T05:55:02.825Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 17:47:00 +0000",
       "observedText": "Suitably spooky.",
       "id": 110360686979593,
       "url": "https://gg.deals/freebie/psychological-horror-game-asleep-act-1-is-free-to-keep-on-steam-for-a-limited-time/",
       "created": "2026-11-04T05:53:36.402Z",
-      "updated": "2026-11-04T05:53:36.402Z"
+      "updated": "2026-11-04T05:55:02.825Z"
     },
     {
       "title": "My Darkest Witch is FREE to keep on IndieGala right now!",
@@ -772,20 +772,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.400Z",
+      "lastChecked": "2026-11-04T05:55:02.822Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 20:44:00 +0000",
       "observedText": "Slay creatures and keep the world safe in this magic-fueled top-down arena shooter.",
       "id": 238613721439851,
       "url": "https://gg.deals/freebie/my-darkest-witch-is-free-to-keep-in-indiegala-right-now/",
       "created": "2026-11-04T05:53:36.401Z",
-      "updated": "2026-11-04T05:53:36.401Z"
+      "updated": "2026-11-04T05:55:02.822Z"
     },
     {
       "title": "Crimson Desert gets a hefty FREE trial on XBOX and PlayStation!",
       "description": "As the massive Charting the Unknown DLC arrives, Pearl Abyss are offering console players the chance to step into the world of Pywel for free.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -813,14 +813,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.401Z",
+      "lastChecked": "2026-11-04T05:55:02.824Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Fri, 30 Oct 2026 19:10:00 +0000",
       "observedText": "As the massive Charting the Unknown DLC arrives, Pearl Abyss are offering console players the chance to step into the world of Pywel for free.",
       "id": 33278257801598,
       "url": "https://gg.deals/freebie/crimson-desert-is-free-to-try-on-xbox-and-playstation-right-now/",
       "created": "2026-11-04T05:53:36.401Z",
-      "updated": "2026-11-04T05:53:36.401Z"
+      "updated": "2026-11-04T05:55:02.824Z"
     },
     {
       "title": "New FREE games this weekend (October 31-November 1, 2026): your comprehensive roundup",
@@ -854,20 +854,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.400Z",
+      "lastChecked": "2026-11-04T05:55:02.821Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Sat, 31 Oct 2026 15:19:00 +0000",
       "observedText": "We're back again with all the latest free games and DLC to be given away across PC and consoles this week.",
       "id": 141194293924600,
       "url": "https://gg.deals/freebie/new-free-games-this-weekend-october-31-november-1-2026-your-comprehensive-roundup/",
       "created": "2026-11-04T05:53:36.400Z",
-      "updated": "2026-11-04T05:53:36.400Z"
+      "updated": "2026-11-04T05:55:02.821Z"
     },
     {
       "title": "13 surprise Epic Games Store freebies are up for grabs right now",
       "description": "Christmas comes early, with over $100 worth of Epic freebies available right now until Sunday.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -895,14 +895,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.399Z",
+      "lastChecked": "2026-11-04T05:55:02.820Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Mon, 02 Nov 2026 10:20:00 +0000",
       "observedText": "Christmas comes early, with over $100 worth of Epic freebies available right now until Sunday.",
       "id": 211823097718376,
       "url": "https://gg.deals/freebie/13-surprise-epic-games-store-freebies-are-up-for-grabs-right-now/",
       "created": "2026-11-04T05:53:36.399Z",
-      "updated": "2026-11-04T05:53:36.399Z"
+      "updated": "2026-11-04T05:55:02.820Z"
     },
     {
       "title": "Want a FREE Fallout: New Vegas Steam key? Lenovo has a giveaway planned for December!",
@@ -936,14 +936,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.398Z",
+      "lastChecked": "2026-11-04T05:55:02.819Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Tue, 03 Nov 2026 11:00:00 +0000",
       "observedText": "A free trip to New Vegas? Count us in!",
       "id": 264150216406455,
       "url": "https://gg.deals/freebie/free-fallout-new-vegas-steam-key-lenovo-has-a-giveaway-planned-for-december/",
       "created": "2026-11-04T05:53:36.398Z",
-      "updated": "2026-11-04T05:53:36.398Z"
+      "updated": "2026-11-04T05:55:02.819Z"
     },
     {
       "title": "Gearbox has 100 FREE Borderlands Golden Keys waiting for you to claim!",
@@ -977,20 +977,20 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.397Z",
+      "lastChecked": "2026-11-04T05:55:02.818Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Tue, 03 Nov 2026 13:50:00 +0000",
       "observedText": "The giveaway coincides with news of a landmark sales figure for the series.",
       "id": 226628263819603,
       "url": "https://gg.deals/freebie/gearbox-has-100-free-borderlands-golden-keys-waiting-for-you-to-claim/",
       "created": "2026-11-04T05:53:36.397Z",
-      "updated": "2026-11-04T05:53:36.397Z"
+      "updated": "2026-11-04T05:55:02.818Z"
     },
     {
       "title": "Microsoft's FREE 25-game Xbox bundle promotion is now live! Here's who is eligible",
       "description": "Here's what's included and who can actually get the bundle.",
       "site": "gg.deals",
-      "category": "Cadeau physique",
+      "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -1018,18 +1018,18 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:36.395Z",
+      "lastChecked": "2026-11-04T05:55:02.817Z",
       "source": "GG.deals · jeux gratuits",
       "published": "Tue, 03 Nov 2026 14:30:00 +0000",
       "observedText": "Here's what's included and who can actually get the bundle.",
       "id": 244476478905793,
       "url": "https://gg.deals/freebie/microsofts-free-25-game-xbox-bundle-promotion-is-now-live-heres-who-is-eligible/",
       "created": "2026-11-04T05:53:36.395Z",
-      "updated": "2026-11-04T05:53:36.395Z"
+      "updated": "2026-11-04T05:55:02.817Z"
     },
     {
-      "title": "5 Winners Get a $500 Gift Card in Ulta&#8217;s Scan to Win Sweepstakes!",
-      "description": "Here is an offer where you can enter Ulta&#8217;s Scan to Win Sweepstakes! NOTE: To enter without scanning, you can: Send an email that is received by Sponsor during the Entry Period to: sweepstakes@ulta.com with the subject line: &#8220;Scan to Win Sweepstakes #1 2026 Entry&#8221; and include the following information in the body of the email: • Full legal name; and • Preferred email address. Continue reading 5 Winners Get a $500 Gift Card in Ulta&#8217;s Scan to Win Sweepstakes! at The Freebie Guy®.",
+      "title": "5 Winners Get a $500 Gift Card in Ulta’s Scan to Win Sweepstakes!",
+      "description": "Here is an offer where you can enter Ulta’s Scan to Win Sweepstakes! NOTE: To enter without scanning, you can: Send an email that is received by Sponsor during the Entry Period to: sweepstakes@ulta.com with the subject line: “Scan to Win Sweepstakes #1 2026 Entry” and include the following information in the body of the email: • Full legal name; and • Preferred email address. Continue reading 5 Winners Get a $500 Gift Card in Ulta’s Scan to Win Sweepstakes! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Concours",
       "reward": "Inconnue",
@@ -1059,17 +1059,17 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:35.907Z",
+      "lastChecked": "2026-11-04T05:55:02.197Z",
       "source": "The Freebie Guy · flux public",
       "published": "Tue, 03 Nov 2026 20:30:31 +0000",
-      "observedText": "Here is an offer where you can enter Ulta&#8217;s Scan to Win Sweepstakes! NOTE: To enter without scanning, you can: Send an email that is received by Sponsor during the Entry Period to: sweepstakes@ulta.com with the subject line: &#8220;Scan to Win Sweepstakes #1 2026 Entry&#8221; and include the following information in the body of the email: • Full legal name; and • Preferred email address. Continue reading 5 Winners Get a $500 Gift Card in Ulta&#8217;s Scan to Win Sweepstakes! at The Freebie Guy®.",
+      "observedText": "Here is an offer where you can enter Ulta’s Scan to Win Sweepstakes! NOTE: To enter without scanning, you can: Send an email that is received by Sponsor during the Entry Period to: sweepstakes@ulta.com with the subject line: “Scan to Win Sweepstakes #1 2026 Entry” and include the following information in the body of the email: • Full legal name; and • Preferred email address. Continue reading 5 Winners Get a $500 Gift Card in Ulta’s Scan to Win Sweepstakes! at The Freebie Guy®.",
       "id": 127272607357746,
       "url": "https://thefreebieguy.com/5-winners-get-a-500-00-in-ultas-scan-to-win-sweepstakes/",
       "created": "2026-11-04T05:51:30.325Z",
-      "updated": "2026-11-04T05:53:35.907Z"
+      "updated": "2026-11-04T05:55:02.197Z"
     },
     {
-      "title": "Dutch Bros Coffee Deals &#124; Play to Win Free Drinks + Score a Free Sticker on 11/4",
+      "title": "Dutch Bros Coffee Deals | Play to Win Free Drinks + Score a Free Sticker on 11/4",
       "description": "Dutch Bros Deals, Rewards, and Latest Specials Looking for the latest Dutch Bros deals and specials? We’re sharing the newest coupons, limited-time offers, rewards perks, and seasonal menu items so you can save money on your next Dutch Bros visit. On November 4th, guests can grab a free sticker with every drink purchase, starting at 5am, while supplies last. ORDER DUTCH BROS HERE! Latest Menu Items Dutch Bros launched two new drinks, Merry Magic and Sprinkle Cookie, plus a Holiday Sugar Cookie Cake Pop and returning Hazelnut Truffle and Candy Cane beverages across 1,225+ locations. Continue reading Dutch Bros Coffee Deals | Play to Win Free Drinks + Score a Free Sticker on 11/4 at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Code promotionnel",
@@ -1100,18 +1100,18 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:35.901Z",
+      "lastChecked": "2026-11-04T05:55:02.190Z",
       "source": "The Freebie Guy · flux public",
       "published": "Tue, 03 Nov 2026 21:25:56 +0000",
       "observedText": "Dutch Bros Deals, Rewards, and Latest Specials Looking for the latest Dutch Bros deals and specials? We’re sharing the newest coupons, limited-time offers, rewards perks, and seasonal menu items so you can save money on your next Dutch Bros visit. On November 4th, guests can grab a free sticker with every drink purchase, starting at 5am, while supplies last. ORDER DUTCH BROS HERE! Latest Menu Items Dutch Bros launched two new drinks, Merry Magic and Sprinkle Cookie, plus a Holiday Sugar Cookie Cake Pop and returning Hazelnut Truffle and Candy Cane beverages across 1,225+ locations. Continue reading Dutch Bros Coffee Deals | Play to Win Free Drinks + Score a Free Sticker on 11/4 at The Freebie Guy®.",
       "id": 230319648662528,
       "url": "https://thefreebieguy.com/dutch-bros-deals/",
       "created": "2026-11-04T05:51:30.301Z",
-      "updated": "2026-11-04T05:53:35.901Z"
+      "updated": "2026-11-04T05:55:02.190Z"
     },
     {
-      "title": "Dunkin’ Deals &#038; Freebies &#124; Free Cookie Butter Cloud Latte, New Menu Items, &#038; More!",
-      "description": "The Best Dunkin Deals & Freebies! On November 10th, Dunkin&#8217; is giving away Free Medium Cookie Butter Cloud Lattes with purchase (cup of water or a single Munchkins Donut Hole Treat, and gift cards do not count). The offer starts at 2pm and ends at 6pm local time. One freebie per transaction. Beginning Nov. 4, Dunkin’ introduces the Donutcracker on holiday packaging and returns Cookie Butter and Toasted White Chocolate flavors. Continue reading Dunkin’ Deals &#038; Freebies | Free Cookie Butter Cloud Latte, New Menu Items, &#038; More! at The Freebie Guy®.",
+      "title": "Dunkin’ Deals & Freebies | Free Cookie Butter Cloud Latte, New Menu Items, & More!",
+      "description": "The Best Dunkin Deals & Freebies! On November 10th, Dunkin’ is giving away Free Medium Cookie Butter Cloud Lattes with purchase (cup of water or a single Munchkins Donut Hole Treat, and gift cards do not count). The offer starts at 2pm and ends at 6pm local time. One freebie per transaction. Beginning Nov. 4, Dunkin’ introduces the Donutcracker on holiday packaging and returns Cookie Butter and Toasted White Chocolate flavors. Continue reading Dunkin’ Deals & Freebies | Free Cookie Butter Cloud Latte, New Menu Items, & More! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Cadeau physique",
       "reward": "Inconnue",
@@ -1141,18 +1141,18 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:35.899Z",
+      "lastChecked": "2026-11-04T05:55:02.188Z",
       "source": "The Freebie Guy · flux public",
       "published": "Tue, 03 Nov 2026 21:30:32 +0000",
-      "observedText": "The Best Dunkin Deals & Freebies! On November 10th, Dunkin&#8217; is giving away Free Medium Cookie Butter Cloud Lattes with purchase (cup of water or a single Munchkins Donut Hole Treat, and gift cards do not count). The offer starts at 2pm and ends at 6pm local time. One freebie per transaction. Beginning Nov. 4, Dunkin’ introduces the Donutcracker on holiday packaging and returns Cookie Butter and Toasted White Chocolate flavors. Continue reading Dunkin’ Deals &#038; Freebies | Free Cookie Butter Cloud Latte, New Menu Items, &#038; More! at The Freebie Guy®.",
+      "observedText": "The Best Dunkin Deals & Freebies! On November 10th, Dunkin’ is giving away Free Medium Cookie Butter Cloud Lattes with purchase (cup of water or a single Munchkins Donut Hole Treat, and gift cards do not count). The offer starts at 2pm and ends at 6pm local time. One freebie per transaction. Beginning Nov. 4, Dunkin’ introduces the Donutcracker on holiday packaging and returns Cookie Butter and Toasted White Chocolate flavors. Continue reading Dunkin’ Deals & Freebies | Free Cookie Butter Cloud Latte, New Menu Items, & More! at The Freebie Guy®.",
       "id": 7124694357049,
       "url": "https://thefreebieguy.com/best-dunkin-deals-freebies/",
       "created": "2026-11-04T05:51:30.299Z",
-      "updated": "2026-11-04T05:53:35.899Z"
+      "updated": "2026-11-04T05:55:02.188Z"
     },
     {
       "title": "EXTENDED! Score a FREE MTN DEW Baja Blast! Save Offer Now, Redeem In-Store Later!",
-      "description": "Get a FREE 20oz Mtn Dew Baja Blast! From now through November 8th 2026, every time an MLB player hits a home run of 420 feet or more, you can get a free drink the very next day. Here&#8217;s the deal, and how you can score (there are 2 ways!): Head to the link below and fill out the form. You&#8217;ll receive an email with an offer to score a FREE 20 oz. Continue reading EXTENDED! Score a FREE MTN DEW Baja Blast! Save Offer Now, Redeem In-Store Later! at The Freebie Guy®.",
+      "description": "Get a FREE 20oz Mtn Dew Baja Blast! From now through November 8th 2026, every time an MLB player hits a home run of 420 feet or more, you can get a free drink the very next day. Here’s the deal, and how you can score (there are 2 ways!): Head to the link below and fill out the form. You’ll receive an email with an offer to score a FREE 20 oz. Continue reading EXTENDED! Score a FREE MTN DEW Baja Blast! Save Offer Now, Redeem In-Store Later! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Cadeau physique",
       "reward": "Inconnue",
@@ -1182,18 +1182,18 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:35.892Z",
+      "lastChecked": "2026-11-04T05:55:02.180Z",
       "source": "The Freebie Guy · flux public",
       "published": "Tue, 03 Nov 2026 22:40:15 +0000",
-      "observedText": "Get a FREE 20oz Mtn Dew Baja Blast! From now through November 8th 2026, every time an MLB player hits a home run of 420 feet or more, you can get a free drink the very next day. Here&#8217;s the deal, and how you can score (there are 2 ways!): Head to the link below and fill out the form. You&#8217;ll receive an email with an offer to score a FREE 20 oz. Continue reading EXTENDED! Score a FREE MTN DEW Baja Blast! Save Offer Now, Redeem In-Store Later! at The Freebie Guy®.",
+      "observedText": "Get a FREE 20oz Mtn Dew Baja Blast! From now through November 8th 2026, every time an MLB player hits a home run of 420 feet or more, you can get a free drink the very next day. Here’s the deal, and how you can score (there are 2 ways!): Head to the link below and fill out the form. You’ll receive an email with an offer to score a FREE 20 oz. Continue reading EXTENDED! Score a FREE MTN DEW Baja Blast! Save Offer Now, Redeem In-Store Later! at The Freebie Guy®.",
       "id": 262772458796903,
       "url": "https://thefreebieguy.com/free-mountain-dew-baja-blast/",
       "created": "2026-11-04T05:51:30.294Z",
-      "updated": "2026-11-04T05:53:35.892Z"
+      "updated": "2026-11-04T05:55:02.180Z"
     },
     {
-      "title": "Ford Transit Trail Class Action Settlement &#8211; Claim Up to $6,000 Per Vehicle!",
-      "description": "This Class Action Settlement Affects: Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use. What’s This Class Action Settlement About? The lawsuit claims certain Ford Transit Trail vehicles have defects involving insufficient tire clearance within the wheel wells under certain driving conditions. Who Qualifies for the Settlement? Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use and have not already received compensation from Ford related to the vehicle or the alleged defect. Continue reading Ford Transit Trail Class Action Settlement &#8211; Claim Up to $6,000 Per Vehicle! at The Freebie Guy®.",
+      "title": "Ford Transit Trail Class Action Settlement – Claim Up to $6,000 Per Vehicle!",
+      "description": "This Class Action Settlement Affects: Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use. What’s This Class Action Settlement About? The lawsuit claims certain Ford Transit Trail vehicles have defects involving insufficient tire clearance within the wheel wells under certain driving conditions. Who Qualifies for the Settlement? Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use and have not already received compensation from Ford related to the vehicle or the alleged defect. Continue reading Ford Transit Trail Class Action Settlement – Claim Up to $6,000 Per Vehicle! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Remboursement",
       "reward": "Inconnue",
@@ -1223,14 +1223,14 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-04T05:53:35.889Z",
+      "lastChecked": "2026-11-04T05:55:02.177Z",
       "source": "The Freebie Guy · flux public",
       "published": "Tue, 03 Nov 2026 23:52:19 +0000",
-      "observedText": "This Class Action Settlement Affects: Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use. What’s This Class Action Settlement About? The lawsuit claims certain Ford Transit Trail vehicles have defects involving insufficient tire clearance within the wheel wells under certain driving conditions. Who Qualifies for the Settlement? Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use and have not already received compensation from Ford related to the vehicle or the alleged defect. Continue reading Ford Transit Trail Class Action Settlement &#8211; Claim Up to $6,000 Per Vehicle! at The Freebie Guy®.",
+      "observedText": "This Class Action Settlement Affects: Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use. What’s This Class Action Settlement About? The lawsuit claims certain Ford Transit Trail vehicles have defects involving insufficient tire clearance within the wheel wells under certain driving conditions. Who Qualifies for the Settlement? Any current or former owners and lessees of a 2023 or 2024 Ford Transit Trail before June 1, 2024, for personal, family or household use and have not already received compensation from Ford related to the vehicle or the alleged defect. Continue reading Ford Transit Trail Class Action Settlement – Claim Up to $6,000 Per Vehicle! at The Freebie Guy®.",
       "id": 86904500921088,
       "url": "https://thefreebieguy.com/ford-transit-trail-class-action-settlement/",
       "created": "2026-11-04T05:51:30.291Z",
-      "updated": "2026-11-04T05:53:35.889Z"
+      "updated": "2026-11-04T05:55:02.177Z"
     }
   ]
 }
